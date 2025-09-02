@@ -1,0 +1,14 @@
+C:\Users\50776884867\Desktop\Logica de programação\bin\Debug\net9.0\Logica de programação.exe
+C:\Users\50776884867\Desktop\Logica de programação\bin\Debug\net9.0\Logica de programação.deps.json
+C:\Users\50776884867\Desktop\Logica de programação\bin\Debug\net9.0\Logica de programação.runtimeconfig.json
+C:\Users\50776884867\Desktop\Logica de programação\bin\Debug\net9.0\Logica de programação.dll
+C:\Users\50776884867\Desktop\Logica de programação\bin\Debug\net9.0\Logica de programação.pdb
+C:\Users\50776884867\Desktop\Logica de programação\obj\Debug\net9.0\Logica de programação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50776884867\Desktop\Logica de programação\obj\Debug\net9.0\Logica de programação.AssemblyInfoInputs.cache
+C:\Users\50776884867\Desktop\Logica de programação\obj\Debug\net9.0\Logica de programação.AssemblyInfo.cs
+C:\Users\50776884867\Desktop\Logica de programação\obj\Debug\net9.0\Logica de programação.csproj.CoreCompileInputs.cache
+C:\Users\50776884867\Desktop\Logica de programação\obj\Debug\net9.0\Logica de programação.dll
+C:\Users\50776884867\Desktop\Logica de programação\obj\Debug\net9.0\refint\Logica de programação.dll
+C:\Users\50776884867\Desktop\Logica de programação\obj\Debug\net9.0\Logica de programação.pdb
+C:\Users\50776884867\Desktop\Logica de programação\obj\Debug\net9.0\Logica de programação.genruntimeconfig.cache
+C:\Users\50776884867\Desktop\Logica de programação\obj\Debug\net9.0\ref\Logica de programação.dll
